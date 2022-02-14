@@ -1,2 +1,2 @@
-# Repostório de personalização de graficos no matlab
+# Repostório de personalização de gráficos no Matlab
 
